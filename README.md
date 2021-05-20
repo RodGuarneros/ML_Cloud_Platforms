@@ -41,7 +41,7 @@ Monitoring Models: Google's ML Engine provides features that allow you to monito
 
 Type of Predictions: ML Engine allows for Online(or On-demand) type of predictions where each prediction request can contain one to many requests. ML Engine also allows for Batch predictions. More information about ML Engine's Online and Batch predictions.
 
-#Microsoft Azure
+# Microsoft Azure
 
 Similar to Amazon's SageMaker and Google's ML Engine, Microsoft offers Azure AI. Azure AI offers an open and comprehensive platform that includes AI software frameworks like: TensorFlow, PyTorch, scikit-learn, MxNet, Chainer, Caffe2, and other software like their Azure Machine Learning Studio. For more details see Azure AI and Azure Machine Learning Studio.
 
