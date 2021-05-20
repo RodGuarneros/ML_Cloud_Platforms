@@ -20,7 +20,8 @@ Flexibility in Modeling and Deployment: SageMaker provides a number of features 
 Automatic Model Tuning: SageMaker provides a feature that allows hyperparameter tuning to find the best version of the model for built-in and custom algorithms. For built-in algorithms SageMaker also provides evaluation metrics to evaluate the performance of your models.
 Monitoring Models: SageMaker provides features that allow you to monitor your deployed models. Additionally with model deployment, one can choose how much traffic to route to each deployed model (model variant). More information on routing traffic to model variants can be found here and here .
 Type of Predictions: SageMaker by default allows for On-demand type of predictions where each prediction request can contain one to many requests. SageMaker also allows for Batch predictions, and request data size limits are based upon S3 object size limits.
-Google Cloud Platform (GCP)
+
+# Google Cloud Platform (GCP)
 
 Google Cloud Platform (GCP) ML Engine is Google's cloud service that allows you to build, train, and deploy machine learning models. Below we have highlighted some of the similarities and differences between these two cloud service platforms.
 
